@@ -1,6 +1,6 @@
 
 
-This program prints out time in seconds since the unix Epoch in logfile.txt which can be found in the same directory that the program is running in.
+This program prints out time in seconds since The Unix Epoch in logfile.txt which can be found in the same directory that the program is running in.
 
 To Run This Program:
 	-install the gcc compiler for c on your linux system
